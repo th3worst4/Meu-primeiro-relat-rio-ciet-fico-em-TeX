@@ -1,0 +1,17 @@
+\babel@toc {brazil}{}
+\contentsline {section}{\numberline {1}Introdução}{6}{}%
+\contentsline {subsection}{\numberline {1.1}Descrevendo o movimento de queda livre}{6}{}%
+\contentsline {subsection}{\numberline {1.2}Sobre o \textsl {software} Tracker\copyright }{7}{}%
+\contentsline {subsection}{\numberline {1.3}Relação entre $R$ e as alturas de cada quique}{7}{}%
+\contentsline {subsection}{\numberline {1.4}Explicitando o aparato experimental}{8}{}%
+\contentsline {section}{\numberline {2}Experimentações}{9}{}%
+\contentsline {subsection}{\numberline {2.1}Configurando o Tracker\copyright }{9}{}%
+\contentsline {subsection}{\numberline {2.2}Obtendo a gravidade $g$}{11}{}%
+\contentsline {subsection}{\numberline {2.3}Calculando o coeficiente de restituição $R$ do caso sem amortecimento}{15}{}%
+\contentsline {subsection}{\numberline {2.4}Calculando o coeficiente de restituição $R$ do caso com amortecimento}{17}{}%
+\contentsline {subsection}{\numberline {2.5}Comparando os dois experimentos}{19}{}%
+\contentsline {section}{\numberline {3}Conclusões}{20}{}%
+\contentsline {subsection}{\numberline {3.1}Síntese dos métodos}{20}{}%
+\contentsline {subsection}{\numberline {3.2}Síntese dos resultados}{20}{}%
+\contentsline {section}{\numberline {4}Tabelas de dados brutos}{22}{}%
+\contentsline {section}{\numberline {5}Referências Bibliográficas}{26}{}%
